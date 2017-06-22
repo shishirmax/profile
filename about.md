@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am the guy who loves to experiment with food and code. You may find me creating some abstract artwork with some cool music playing around.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Sketching with Typography and Dreaming is something I love to do whenever I feel lazy.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can follow me on [Quora](https://www.quora.com/profile/Shishir-Max) & [Medium](https://medium.com/@shishirmax).
+
+I dump my development work on [Github](https://github.com/shishirmax).
 
 
 [jekyll-organization]: https://github.com/jekyll
